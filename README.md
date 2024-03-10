@@ -1,1 +1,2 @@
-# Dermatology_cloned
+# DermatologyDetection
+Dermatology detection with multi-language
